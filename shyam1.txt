@@ -1,4 +1,7 @@
 hi i am shyam
+welcome to all
 hi today GIT dat
 thank you all
-bye
+day 1 git repository
+thank you
+:wq
