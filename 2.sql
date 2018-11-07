@@ -19,10 +19,8 @@ Create Table Agent
     Country varchar(30),
     Primary Key(AgentID)
   )
-
   
-
-insert into Agent(FirstName,MI,LastName,Gender,DOB,SSN,MaritalStatus,Address1,Address2,City,STATE,ZipCode,Country)
+  insert into Agent(FirstName,MI,LastName,Gender,DOB,SSN,MaritalStatus,Address1,Address2,City,STATE,ZipCode,Country)
 values('Sunitha','P','Premjee','Female','1988-02-01','434-55-3323',
 1,'5th Avenue','Near Church','Parlin','NJ','434554','USA'),
 ('Pranitha','R','Reddy','Female','1986-01-02','324-55-2344',
@@ -50,7 +48,6 @@ values('Sunitha','P','Premjee','Female','1988-02-01','434-55-3323',
 '341-23-4211',0,'KondaPur','Nr Stadium','HYDBAD','AP',
 '509244','INDIA'),
 ('Rakesh','K','Chowdary','Male',
-
 '1986-01-12','123-23-2444',1,'8th Mile','Church Road','Detroit',
 'MI','484555','USA'),
 ('Rama','U','Rao','Male',
@@ -67,5 +64,5 @@ values('Sunitha','P','Premjee','Female','1988-02-01','434-55-3323',
 'AP','500 062','INDIA') 
 
 use sqlpractice
-
 select * from Agent;
+show databases
