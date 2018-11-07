@@ -67,4 +67,6 @@ values('Sunitha','P','Premjee','Female','1988-02-01','434-55-3323',
 
 use sqlpractice
 
-select * from Agent 
+select * from Agent
+select maritalstatus from Agent 
+
