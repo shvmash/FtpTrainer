@@ -7,7 +7,7 @@ Create Table Emp
     Basic INT,
     primary key(Empno)
 )
-
+;
 
 
 Insert into Emp(Name,Dept,Desig,Basic) values
