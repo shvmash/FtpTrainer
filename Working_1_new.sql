@@ -67,6 +67,11 @@ values('Sunitha','P','Premjee','Female','1988-02-01','434-55-3323',
 
 use sqlpractice
 
+<<<<<<< HEAD
+select * from Agent
+select maritalstatus from Agent 
+
+=======
 select * from Agent 
 show databases;
 show tables;
@@ -83,3 +88,4 @@ select * from agent where firstname in ('pranitha','madhuri');
 select agentid,firstname, lastname, city, state from agent order by city;
 select agentid,firstname, lastname, city, state from agent order by city, firstname;    
 select               
+>>>>>>> dc91ddc9337642b4c85b933ab81b9ba8a47a851a

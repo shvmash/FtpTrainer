@@ -7,7 +7,7 @@ Create Table Emp
     Basic INT,
     primary key(Empno)
 )
-
+;
 
 
 Insert into Emp(Name,Dept,Desig,Basic) values
@@ -39,4 +39,4 @@ SELECT name from emp where left(length(name)-length(replace(name,' ',''))=0,1)=l
 
 SELECT name from emp where left(length(name)-length(replace(name,' ',''))=0,1)=left(length(name)-length(replace(name,' ',''))=1,1)=left(length(name)-length(replace(name,' ',''))=2,1)
 
-
+select name from emp
