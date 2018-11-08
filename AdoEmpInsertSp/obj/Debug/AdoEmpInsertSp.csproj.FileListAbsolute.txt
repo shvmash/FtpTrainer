@@ -1,0 +1,6 @@
+C:\Users\xyz\source\repos\AdoEmpInsertSp\bin\Debug\AdoEmpInsertSp.exe.config
+C:\Users\xyz\source\repos\AdoEmpInsertSp\bin\Debug\AdoEmpInsertSp.exe
+C:\Users\xyz\source\repos\AdoEmpInsertSp\bin\Debug\AdoEmpInsertSp.pdb
+C:\Users\xyz\source\repos\AdoEmpInsertSp\obj\Debug\AdoEmpInsertSp.csproj.CoreCompileInputs.cache
+C:\Users\xyz\source\repos\AdoEmpInsertSp\obj\Debug\AdoEmpInsertSp.exe
+C:\Users\xyz\source\repos\AdoEmpInsertSp\obj\Debug\AdoEmpInsertSp.pdb
