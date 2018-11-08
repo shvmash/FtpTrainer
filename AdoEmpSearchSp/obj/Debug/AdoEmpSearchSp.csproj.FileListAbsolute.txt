@@ -1,0 +1,6 @@
+C:\Users\xyz\source\repos\AdoEmpSearchSp\bin\Debug\AdoEmpSearchSp.exe.config
+C:\Users\xyz\source\repos\AdoEmpSearchSp\bin\Debug\AdoEmpSearchSp.exe
+C:\Users\xyz\source\repos\AdoEmpSearchSp\bin\Debug\AdoEmpSearchSp.pdb
+C:\Users\xyz\source\repos\AdoEmpSearchSp\obj\Debug\AdoEmpSearchSp.csproj.CoreCompileInputs.cache
+C:\Users\xyz\source\repos\AdoEmpSearchSp\obj\Debug\AdoEmpSearchSp.exe
+C:\Users\xyz\source\repos\AdoEmpSearchSp\obj\Debug\AdoEmpSearchSp.pdb
