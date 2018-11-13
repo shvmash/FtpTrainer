@@ -1,4 +1,4 @@
-package com.hexaware.ftp08.persistence;
+package com.hexaware.ftptrainer.persistence;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import org.skife.jdbi.v2.tweak.ResultSetMapper;
 import org.skife.jdbi.v2.StatementContext;
 
-import com.hexaware.ftp08.model.Employee;
+import com.hexaware.ftptrainer.model.Employee;
 /**
  * Mapper class to map from result set to employee object.
  */
@@ -22,9 +22,8 @@ public class EmployeeMapper implements ResultSetMapper<Employee> {
     /**
      * @return Employee
      */
-    return new Employee(rs.getInt("EMP_ID"), rs.getString("EMP_NAME"), rs.getString("EMP_EMAIL"),
-                        rs.getLong("EMP_MOB_NO"), rs.getString("EMP_DPT_NAME"),
-                        rs.getInt("EMP_MGR_ID"), rs.getInt("EMP_LEAVE_BALANCE"));
+    return new Employee(rs.getInt("empno"), rs.getString("name"), rs.getString("dept"),
+        rs.getString("desig"), rs.getInt("basic"));
 
   }
 
