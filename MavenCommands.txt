@@ -1,0 +1,3 @@
+mvn archetype:generate -DgroupId=com.hexaware.ftptrainer -DartifactId=DemoProject -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn exec:java -Dexec.mainClass=com.hexaware.ftptrainer.App
